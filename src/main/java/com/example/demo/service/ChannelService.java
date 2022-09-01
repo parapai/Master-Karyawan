@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service;
 import com.example.demo.vo.JsonVo;
 
 @Service
-public class ChannelService {
+public class ChannelService {   
 
 	public String findChannel(String channel) {
 		
